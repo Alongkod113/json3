@@ -48,7 +48,7 @@
                 <div class="row">
                     <div class="col-label my-label"><label><b>เลขบัตรประชาชน</b><font color="#FF0000">*</font>
                         </label></div>
-                    <div class="col-input my-input"><input type="number" name="fUser" class="center" required=""
+                    <div class="col-input my-input"><input type="number" name="fUser" placeholder="เลข 13หลัก" class="center" required=""
                             value="">
                     </div>
                 </div>
