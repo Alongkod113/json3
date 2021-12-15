@@ -31,17 +31,6 @@
     .my-input {
         width: 60%
     }
-    #myForm1 {
-        max-width: 1000px;
-        border-radius: 6em;
-        border: 2px solid orangered;
-        background-color: whitesmoke;
-        padding: 20px;
-        margin: 10px;
-        
-       
-    }
-   
 
     .bg {
         background-color: rgb(185, 160, 236);
@@ -269,7 +258,6 @@
 
                 </div>
                 <div class="col-sm-2 control-label" required>
-                    <div id="myForm1">
                         <label class="checkbox  ">
                             <input type="checkbox" id="itd" value=""> ITD (เทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล)
                         </label><br />
@@ -295,7 +283,9 @@
                         </div>
                     </div>
                 </div>
+            </div>
         </form>
+    </div>
 </body>
 
 </html>
