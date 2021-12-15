@@ -41,7 +41,7 @@
 
 <body class="bg">
     <form action="#" method="post" name="add" class="form-horizontal" id="add">
-        <h1 class="in2" style="text-align: center;">แบบฟอร์มกรอกประวัติส่วนตัว</h1>
+        <h1 style="text-align: center;">แบบฟอร์มกรอกประวัติส่วนตัว</h1>
         <p></p>
         <form action="home_login.asp?e=1" method="post" autocomplete="off">
             <div id="myForm">
@@ -253,10 +253,11 @@
             <!--ส่วนสาขาที่สนใจ-->
         
         <div class="col-sm-2 control-label" required>
-            <div id="myForm"> สาขาที่สนใจ :</div>
+             สาขาที่สนใจ :
            
         </div>
         <div class="col-sm-2 control-label" required>
+            <div id="myForm">
             <label class="checkbox  ">
                 <input type="checkbox"  id="itd" value=""> ITD (เทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล)
             </label><br />
