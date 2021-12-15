@@ -11,6 +11,7 @@
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
     <title>63112379_Alongkod</title>
+    <link rel="stylesheet" href="ลงทะเบียน.html">
 </head>
 <style>
     #myForm {
@@ -40,7 +41,7 @@
 
 <body class="bg">
     <form action="#" method="post" name="add" class="form-horizontal" id="add">
-        <h1 style="text-align: center;">แบบฟอร์มกรอกประวัติส่วนตัว</h1>
+        <h1 class="in2" style="text-align: center;">แบบฟอร์มกรอกประวัติส่วนตัว</h1>
         <p></p>
         <form action="home_login.asp?e=1" method="post" autocomplete="off">
             <div id="myForm">
