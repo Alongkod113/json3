@@ -192,7 +192,7 @@
                 รหัสไปรษณีย์*
             </div>
             <div class="col-sm-3" required>
-                <input type="text" name="" required class="form-control" placeholder="18203">
+                <input type="text" name="" required class="form-control"  class="center" placeholder="18203">
             </div>
         </div>
 
@@ -202,7 +202,7 @@
                 โทรศัพท์บ้าน
             </div>
             <div class="col-sm-3" required>
-                <input type="text" name="" required class="form-control" placeholder="0256498731">
+                <input type="text" name="" required class="form-control"  class="center" placeholder="0256498731">
             </div>
         </div>
 
@@ -212,7 +212,7 @@
                 โทรศัพท์มือถือ*
             </div>
             <div class="col-sm-3" required>
-                <input type="text" name="" required class="form-control" placeholder="0623254987">
+                <input type="text" name="" required class="form-control"  class="center" placeholder="0623254987">
             </div>
         </div>
 
