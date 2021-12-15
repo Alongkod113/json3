@@ -257,7 +257,7 @@
                     สาขาที่สนใจ :
 
                 </div>
-                <div class="col-sm-2 control-label" required>
+                <div class="" required>
                  
                         <label class="checkbox  ">
                             <input type="checkbox" id="itd" value=""> ITD (เทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล)</label><br />
