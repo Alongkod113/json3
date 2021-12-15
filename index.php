@@ -94,7 +94,7 @@
                 ชื่อ* :
             </div>
             <div class="col-sm-3" required>
-                <input type="text" name="" required class="form-control" placeholder="ภาษาไทยหรืออังกฤษ">
+                <input type="text" name="" required class="form-control" placeholder="ภาษาไทย">
             </div>
         </div>
         <div class="form-group">
@@ -102,7 +102,7 @@
                 นามสกุล* :
             </div>
             <div class="col-sm-3" required>
-                <input type="text" name="" required class="form-control" placeholder="ภาษาไทยหรืออังกฤษ">
+                <input type="text" name="" required class="form-control" placeholder="ภาษาไทย">
             </div>
         </div>
 
@@ -209,7 +209,7 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                โทรศัพท์มือถือ*
+                โทรศัพท์มือถือ
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="0623254987">
