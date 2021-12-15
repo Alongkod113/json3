@@ -45,7 +45,9 @@
         <form action="home_login.asp?e=1" method="post" autocomplete="off">
             <div id="myForm">
                 <div class="row">
-                    <div class="col-label my-label"><label><b>เลขบัตรประชาชน</b><font color="#FF0000">*</font> </label></div>
+                    <div class="col-label my-label"><label><b>เลขบัตรประชาชน</b>
+                            <font color="#FF0000">*</font>
+                        </label></div>
                     <div class="col-input my-input"><input type="number" name="fUser" class="center" required=""
                             value="">
                     </div>
@@ -56,7 +58,9 @@
             <div class="col-sm-2 control-label">
                 <div class="input-group mb-3">
                     <div class="input-group-prepend">
-                        <label class="input-group-text" for="inputGroupSelect01"> <b> คำนำหน้านาม</b><font color="#FF0000">*</font></label>
+                        <label class="input-group-text" for="inputGroupSelect01"> <b> คำนำหน้านาม</b>
+                            <font color="#FF0000">*</font>
+                        </label>
                     </div>
                     <select class="custom-select" id="inputGroupSelect01" required>
                         <option selected>-เลือกข้อมูล-</option>
@@ -73,7 +77,9 @@
             <div class="col-sm-2 control-label">
                 <div class="input-group mb-3">
                     <div class="input-group-prepend">
-                        <label class="input-group-text" for="inputGroupSelect02"><b>เพศ</b><font color="#FF0000">*</font> </label>
+                        <label class="input-group-text" for="inputGroupSelect02"><b>เพศ</b>
+                            <font color="#FF0000">*</font>
+                        </label>
                     </div>
                     <select class="custom-select" id="inputGroupSelect02" required>
                         <option selected>-เลือกข้อมูล-</option>
@@ -89,7 +95,7 @@
         <div class="form-group">
             <div class="col-sm-2 control-label">
                 <b>
-                        ชื่อ:
+                    ชื่อ
                 </b>
                 <font color="#FF0000">*</font>
             </div>
@@ -99,7 +105,10 @@
         </div>
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                นามสกุล* :
+                <b>
+                    นามสกุล
+                </b>
+                <font color="#FF0000">*</font>
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="ภาษาไทย">
@@ -110,7 +119,9 @@
             <div class="col-sm-2 control-label">
                 <div class="input-group mb-3">
                     <div class="input-group-prepend">
-                        <label class="input-group-text" for="inputGroupSelect03">ศาสนา</label>
+                        <label class="input-group-text" for="inputGroupSelect03"><b>ศาสนา</b>
+                            <font color="#FF0000">*</font>
+                        </label>
                     </div>
                     <select class="custom-select" id="inputGroupSelect03" required>
                         <option selected>-เลือกข้อมูล-</option>
@@ -125,7 +136,10 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                บ้านเลขที่*
+                <b>
+                    บ้านเลขที่
+                </b>
+                <font color="#FF0000">*</font>
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="123/45">
@@ -134,7 +148,10 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                หมู่ที่*
+                <b>
+                    หมู่ที่
+                </b>
+                <font color="#FF0000">*</font>
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="เช่น หมู่ที่ 3">
@@ -143,7 +160,10 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                ถนน*
+                <b>
+                   ถนน 
+                </b>
+                <font color="#FF0000">*</font> 
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="เช่น ถ.ราชดำเนิน">
@@ -152,7 +172,10 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                ตำบล/แขวง*
+                <b>
+                    ตำบล/แขวง
+                </b>
+                <font color="#FF0000">*</font>
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="เช่น ต.ในเมือง">
@@ -161,7 +184,10 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                อำเภอ/เขต*
+                <b>
+                    อำเภอ/เขต
+                </b>
+                <font color="#FF0000">*</font>
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="เช่น อ.เมือง">
@@ -173,7 +199,7 @@
             <div class="col-sm-2 control-label">
                 <div class="input-group mb-3">
                     <div class="input-group-prepend">
-                        <label class="input-group-text" for="inputGroupSelect04">จังหวัด</label>
+                        <label class="input-group-text" for="inputGroupSelect04"><b>จังหวัด</b><font color="#FF0000">*</font> </label>
                     </div>
                     <select class="custom-select" id="inputGroupSelect04" required>
                         <option selected>-เลือกข้อมูล-</option>
@@ -189,7 +215,10 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                รหัสไปรษณีย์*
+                <b>
+                    รหัสไปรษณีย์
+                </b>
+                <font color="#FF0000">*</font>
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" class="center" placeholder="18203">
@@ -199,7 +228,9 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                โทรศัพท์บ้าน
+                <b>
+                    โทรศัพท์บ้าน
+                </b>
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" class="center" placeholder="0256498731">
@@ -209,7 +240,10 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                โทรศัพท์มือถือ*
+                <b>
+                    โทรศัพท์มือถือ
+                </b>
+                <font color="#FF0000">*</font>
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" class="center" placeholder="0623254987">
