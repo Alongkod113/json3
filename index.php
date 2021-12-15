@@ -37,14 +37,7 @@
 
     .bg1 {}
 </style>
-<main id="main" class="">
 
-    <div id="content" class="blog-wrapper blog-single page-wrapper">
-        
-    
-    <div class="row row-large row-divided ">
-    
-</main>
 <body class="bg">
     <form action="#" method="post" name="add" class="form-horizontal" id="add">
         <h1 style="text-align: center;">แบบฟอร์มกรอกประวัติส่วนตัว</h1>
@@ -255,7 +248,28 @@
                 <input type="text" name="" required class="form-control" class="center" placeholder="0623254987">
             </div>
         </div>
-
+        <div>
+            <!--ส่วนสาขาที่สนใจ-->
+        <div class="col-sm-2 control-label" required>
+            สาขาที่สนใจ :
+        </div>
+        <div class="col-sm-2 control-label" required>
+            <label class="checkbox  ">
+                <input type="checkbox"  id="itd" value=""> ITD (เทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล)
+            </label><br />
+            <label class="checkbox">
+                <input type="checkbox"    id="imi"   value=""> IMI (นวัตกรรมสารสนเทศทางการแพทย์)
+            </label><br />
+            <label class="checkbox">
+                <input type="checkbox"   id="mta"    value=""> MTA (เทคโนโลยีมัลติมีเดีย แอนิเมชัน และเกม)
+            </label><br />
+            <label class="checkbox">
+                <input type="checkbox"  id="dcm"    value=""> DCM (ดิจิทัลคอนเทนต์และสื่อ)
+            </label><br />
+            <label class="checkbox">
+                <input type="checkbox"   id="comm"   value=""> COMM (นิเทศศาสตร์)
+            </label><br />
+        </div>
         <div class="form-group">
             <div class="col-sm-2">
             </div>
