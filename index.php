@@ -33,12 +33,12 @@
     }
     #myForm1 {
         max-width: 400px;
-        border-radius: 1em;
+        border-radius: 5em;
         border: 2px solid orangered;
         background-color: whitesmoke;
         padding: 50px;
         margin: 10px;
-        height: 500px;
+        
        
     }
    
