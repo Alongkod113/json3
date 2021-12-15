@@ -45,7 +45,7 @@
         <form action="home_login.asp?e=1" method="post" autocomplete="off">
             <div id="myForm">
                 <div class="row">
-                    <div class="col-label my-label"><label>เลขบัตรประชาชน</label></div>
+                    <div class="col-label my-label"><label><b>เลขบัตรประชาชน</b><font color="#FF0000">*</font> </label></div>
                     <div class="col-input my-input"><input type="number" name="fUser" class="center" required=""
                             value="">
                     </div>
@@ -73,7 +73,7 @@
             <div class="col-sm-2 control-label">
                 <div class="input-group mb-3">
                     <div class="input-group-prepend">
-                        <label class="input-group-text" for="inputGroupSelect02">เพศ</label>
+                        <label class="input-group-text" for="inputGroupSelect02"><b>เพศ</b><font color="#FF0000">*</font> </label>
                     </div>
                     <select class="custom-select" id="inputGroupSelect02" required>
                         <option selected>-เลือกข้อมูล-</option>
@@ -89,7 +89,7 @@
         <div class="form-group">
             <div class="col-sm-2 control-label">
                 <b>
-                        ชื่อ
+                        ชื่อ:
                 </b>
                 <font color="#FF0000">*</font>
             </div>
