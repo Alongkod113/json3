@@ -20,7 +20,7 @@
         border: 2px solid orange;
         background-color: whitesmoke;
         padding: 20px;
-        margin: 10px;
+        margin: 30px;
         text-align: left
     }
 
@@ -73,8 +73,6 @@
                     </div>
                 </div>
             </div>
-
-
             <div class="form-group">
                 <div class="col-sm-2 control-label">
                     <div class="input-group mb-3">
