@@ -15,7 +15,7 @@
 </head>
 <style>
     #myForm {
-        max-width: 350px;
+        max-width: 370px;
         border-radius: 1em;
         border: 2px solid orange;
         background-color: whitesmoke;
@@ -32,12 +32,12 @@
         width: 60%
     }
     #myForm1 {
-        max-width: 390px;
-        border-radius: 0em;
+        max-width: 400px;
+        border-radius: 1em;
         border: 2px solid orangered;
         background-color: whitesmoke;
         padding: 50px;
-        margin: 30px;
+        margin: 10px;
        
     }
    
