@@ -36,24 +36,16 @@
         border-radius: 1em;
         border: 2px solid orangered;
         background-color: whitesmoke;
-        padding: 20px;
+        padding: 50px;
         margin: 10px;
        
     }
-
-    .my-label {
-        width: 38%
-    }
-
-    .my-input {
-        width: 60%
-    }
+   
 
     .bg {
         background-color: rgb(185, 160, 236);
     }
 
-    .bg1 {}
 </style>
 
 <body class="bg">
@@ -64,8 +56,7 @@
             <form action="home_login.asp?e=1" method="post" autocomplete="off">
                 <div id="myForm">
                     <div class="row">
-                        <div class="col-label my-label"><label><b>เลขบัตรประชาชน</b>
-                                <font color="#FF0000">*</font>
+                        <div class="col-label my-label"><label><b>เลขบัตรประชาชน</b><font color="#FF0000">*</font>
                             </label></div>
                         <div class="col-input my-input"><input type="number" name="fUser" class="center" required=""
                                 value="">
