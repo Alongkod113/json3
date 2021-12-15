@@ -38,6 +38,7 @@
         background-color: whitesmoke;
         padding: 50px;
         margin: 10px;
+        height: 500px;
        
     }
    
