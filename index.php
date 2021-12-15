@@ -37,7 +37,14 @@
 
     .bg1 {}
 </style>
+<main id="main" class="">
 
+    <div id="content" class="blog-wrapper blog-single page-wrapper">
+        
+    
+    <div class="row row-large row-divided ">
+    
+</main>
 <body class="bg">
     <form action="#" method="post" name="add" class="form-horizontal" id="add">
         <h1 style="text-align: center;">แบบฟอร์มกรอกประวัติส่วนตัว</h1>
@@ -204,7 +211,8 @@
                         <option value="1">กะบี่</option>
                         <option value="2"> พังงา</option>
                         <option value="3"> ภูเก็ต</option>
-                        <option value="3"> ตรัง </option>
+                        <option value="4"> ตรัง </option>
+                        <option value="5"> ระนอง </option>
                     </select>
                 </div>
             </div>
