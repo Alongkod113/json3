@@ -41,7 +41,7 @@
 </style>
 
 <body class="bg">
-ผ
+
     <form action="#" method="post" name="add" class="form-horizontal" id="add">
         <h1 style="text-align: center;">แบบฟอร์มกรอกประวัติส่วนตัว</h1>
         <p></p>
@@ -173,7 +173,7 @@
             <div class="col-sm-2 control-label">
                 <div class="input-group mb-3">
                     <div class="input-group-prepend">
-                        <label class="input-group-text" for="inputGroupSelect04">ศาสนา</label>
+                        <label class="input-group-text" for="inputGroupSelect04">จังหวัด</label>
                     </div>
                     <select class="custom-select" id="inputGroupSelect04" required>
                         <option selected>-เลือกข้อมูล-</option>
