@@ -39,9 +39,6 @@
 </style>
 
 <body class="bg">
-    <div class="_8fgl _9l2p">
-        <div id="reg_error" class="hidden_elem _58mn" role="alert">
-            
     <form action="#" method="post" name="add" class="form-horizontal" id="add">
         <h1 style="text-align: center;">แบบฟอร์มกรอกประวัติส่วนตัว</h1>
         <p></p>
@@ -91,9 +88,12 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                <font color="red">
-                    <i class="fa fa-exclamation-circle fa-2x"> </i><br>*
-                </font>
+                <b>
+                    <u>
+                        ชื่อ
+                    </u>
+                </b>
+                <font color="#FF0000">*</font>
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="ภาษาไทย">
