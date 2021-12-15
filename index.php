@@ -259,20 +259,15 @@
                 </div>
                 <div class="col-sm-2 control-label" required>
                         <label class="checkbox  ">
-                            <input type="checkbox" id="itd" value=""> ITD (เทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล)
-                        </label><br />
+                            <input type="checkbox" id="itd" value=""> ITD (เทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล)</label><br />
                         <label class="checkbox">
-                            <input type="checkbox" id="imi" value=""> IMI (นวัตกรรมสารสนเทศทางการแพทย์)
-                        </label><br />
+                            <input type="checkbox" id="imi" value=""> IMI (นวัตกรรมสารสนเทศทางการแพทย์)</label><br />
                         <label class="checkbox">
-                            <input type="checkbox" id="mta" value=""> MTA (เทคโนโลยีมัลติมีเดีย แอนิเมชัน และเกม)
-                        </label><br />
+                            <input type="checkbox" id="mta" value=""> MTA (เทคโนโลยีมัลติมีเดีย แอนิเมชัน และเกม)</label><br />
                         <label class="checkbox">
-                            <input type="checkbox" id="dcm" value=""> DCM (ดิจิทัลคอนเทนต์และสื่อ)
-                        </label><br />
+                            <input type="checkbox" id="dcm" value=""> DCM (ดิจิทัลคอนเทนต์และสื่อ)</label><br />
                         <label class="checkbox">
-                            <input type="checkbox" id="comm" value=""> COMM (นิเทศศาสตร์)
-                        </label><br />
+                            <input type="checkbox" id="comm" value=""> COMM (นิเทศศาสตร์)</label><br />
                     </div>
                     <div class="form-group">
                         <div class="col-sm-2">
