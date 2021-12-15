@@ -89,7 +89,7 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-               <font color="red"><i class="fa fa-exclamation-circle fa-2x"> ชื่อ</i><br>*</font> :
+              ชื่อ <font color="red"><i class="fa fa-exclamation-circle fa-2x"> </i><br>*</font> :
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="ภาษาไทย">
