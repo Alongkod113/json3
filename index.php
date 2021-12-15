@@ -41,9 +41,11 @@
 </style>
 
 <body class="bg">
-
-    <form action="#" method="post" name="add" class="form-horizontal" id="add">
-        <h1 style="text-align: center;">แบบฟอร์มกรอกประวัติส่วนตัว</h1>
+    <div class="w3-bar w3-top w3-purple w3-large" style="z-index:4"><button
+            class="w3-bar-item w3-button w3-hide-large w3-hover-none w3-hover-text-light-grey" onclick="w3_open();"><i
+                class="fa fa-bars"></i>
+            <font color="purple">.</font>
+        </button><span class="w3-bar-item w3-right">แบบฟอร์มกรอกประวัติส่วนตัว</span></div>
         <p></p>
         <form action="home_login.asp?e=1" method="post" autocomplete="off">
             <div id="myForm">
@@ -209,7 +211,7 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                โทรศัพท์มือถือ
+                โทรศัพท์มือถือ*
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="0623254987">
