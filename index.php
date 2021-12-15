@@ -143,7 +143,7 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                ถนน* 
+                ถนน*
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="เช่น ถ.ราชดำเนิน">
@@ -152,7 +152,7 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                ตำบล/แขวง* 
+                ตำบล/แขวง*
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="เช่น ต.ในเมือง">
@@ -161,7 +161,7 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                อำเภอ/เขต* 
+                อำเภอ/เขต*
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="เช่น อ.เมือง">
@@ -189,7 +189,7 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                รหัสไปรษณีย์* 
+                รหัสไปรษณีย์*
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="18203">
@@ -199,7 +199,7 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                โทรศัพท์บ้าน 
+                โทรศัพท์บ้าน
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="0256498731">
@@ -209,7 +209,7 @@
 
         <div class="form-group">
             <div class="col-sm-2 control-label">
-                โทรศัพท์มือถือ* 
+                โทรศัพท์มือถือ*
             </div>
             <div class="col-sm-3" required>
                 <input type="text" name="" required class="form-control" placeholder="0623254987">
@@ -220,11 +220,12 @@
             <div class="col-sm-2">
             </div>
             <div class="col-sm-3">
-              <button type="submit" class="btn btn-primary">ตกลง</button>
-              
+                <button type="submit" class="btn btn-primary">ตกลง</button>
+
             </div>
-          </div>
-        
-            </form>
-    </body>
+        </div>
+
+    </form>
+</body>
+
 </html>
