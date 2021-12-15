@@ -32,7 +32,7 @@
     }
 
     .bg {
-        background-color: mediumpurple;
+        background-color: rgb(185, 160, 236);
     }
 
     .bg1 {}
@@ -250,9 +250,10 @@
         </div>
         <div>
             <!--ส่วนสาขาที่สนใจ-->
-        <div id="myForm"></div>
+        
         <div class="col-sm-2 control-label" required>
-            สาขาที่สนใจ :
+            <div id="myForm"> สาขาที่สนใจ :</div>
+           
         </div>
         <div class="col-sm-2 control-label" required>
             <label class="checkbox  ">
