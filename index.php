@@ -250,6 +250,7 @@
         </div>
         <div>
             <!--ส่วนสาขาที่สนใจ-->
+        <div id="myForm"></div>
         <div class="col-sm-2 control-label" required>
             สาขาที่สนใจ :
         </div>
