@@ -32,12 +32,11 @@
         width: 60%
     }
     #myForm1 {
-        max-width: 390px;
+        width: 390px;
         border-radius: 0em;
         border: 2px solid orangered;
         background-color: whitesmoke;
-        padding: 50px;
-        margin: 30px;
+        height: 400px;
        
     }
    
