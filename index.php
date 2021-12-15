@@ -20,8 +20,25 @@
         border: 2px solid orange;
         background-color: whitesmoke;
         padding: 20px;
-        margin: 30px;
-        text-align: left
+        margin: 10px;
+        
+    }
+
+    .my-label {
+        width: 38%
+    }
+
+    .my-input {
+        width: 60%
+    }
+    #myForm1 {
+        max-width: 400px;
+        border-radius: 1em;
+        border: 2px solid orangered;
+        background-color: whitesmoke;
+        padding: 20px;
+        margin: 10px;
+       
     }
 
     .my-label {
@@ -260,7 +277,7 @@
 
                 </div>
                 <div class="col-sm-2 control-label" required>
-                    <div id="myForm">
+                    <div id="myForm1">
                         <label class="checkbox  ">
                             <input type="checkbox" id="itd" value=""> ITD (เทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล)
                         </label><br />
