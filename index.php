@@ -56,7 +56,7 @@
             <div class="col-sm-2 control-label">
                 <div class="input-group mb-3">
                     <div class="input-group-prepend">
-                        <label class="input-group-text" for="inputGroupSelect01">คำนำหน้านาม<font color="#FF0000">*</font></label>
+                        <label class="input-group-text" for="inputGroupSelect01"> <b> คำนำหน้านาม</b><font color="#FF0000">*</font></label>
                     </div>
                     <select class="custom-select" id="inputGroupSelect01" required>
                         <option selected>-เลือกข้อมูล-</option>
@@ -89,9 +89,7 @@
         <div class="form-group">
             <div class="col-sm-2 control-label">
                 <b>
-                    <u>
                         ชื่อ
-                    </u>
                 </b>
                 <font color="#FF0000">*</font>
             </div>
