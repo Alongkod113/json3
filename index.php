@@ -11,7 +11,7 @@
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
     <title>63112379_Alongkod</title>
-    <link rel="stylesheet" href="ลงทะเบียน.html">
+    <link rel="stylesheet" href="ลงทะเบียน.css">
 </head>
 <style>
     #myForm {
