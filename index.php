@@ -39,10 +39,11 @@
 </style>
 
 <body class="bg">
-    <div class="<center>">
+    <div class="container">
         <form action="#" method="post" name="add" class="form-horizontal" id="add">
             <h1 style="text-align: center;">แบบฟอร์มกรอกประวัติส่วนตัว</h1>
             <p></p>
+            
             <form action="home_login.asp?e=1" method="post" autocomplete="off">
                 <div id="myForm">
                     <div class="row">
