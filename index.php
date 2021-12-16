@@ -255,7 +255,7 @@
                 <!--ส่วนสาขาที่สนใจ-->
 
                 <div class="col-sm-2 control-label" required>
-                    <b>สาขาที่สนใจ :</b> 
+                    <b>สาขาที่สนใจ </b> 
 
                 </div>
                 <div " required>
