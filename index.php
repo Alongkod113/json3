@@ -39,7 +39,7 @@
 </style>
 
 <body class="bg">
-    <div class="container">
+    <div class="<center>">
         <form action="#" method="post" name="add" class="form-horizontal" id="add">
             <h1 style="text-align: center;">แบบฟอร์มกรอกประวัติส่วนตัว</h1>
             <p></p>
