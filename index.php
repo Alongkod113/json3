@@ -48,7 +48,7 @@
                     <div class="row">
                         <div class="col-label my-label"><label><b>เลขบัตรประชาชน</b><font color="#FF0000">*</font>
                             </label></div>
-                        <div class="col-input my-input"><input type="number" name="fUser" class="center" required=""
+                        <div class="col-input my-input"><input type="number" name="fUser" class="center" required=""placeholder="18294"
                                 value="">
                         </div>
                     </div>
@@ -140,7 +140,7 @@
                     <font color="#FF0000">*</font>
                 </div>
                 <div class="col-sm-3" required>
-                    <input type="text" name="" required class="form-control" placeholder="123/45">
+                    <input type="text" name="" required class="form-control" placeholder="เช่น 30/1 หรือ 30">
                 </div>
             </div>
 
@@ -152,7 +152,7 @@
                     <font color="#FF0000">*</font>
                 </div>
                 <div class="col-sm-3" required>
-                    <input type="text" name="" required class="form-control" placeholder="เช่น หมู่ที่ 3">
+                    <input type="text" name="" required class="form-control" placeholder="เช่น หมู่ที่9">
                 </div>
             </div>
 
@@ -164,7 +164,7 @@
                     <font color="#FF0000">*</font>
                 </div>
                 <div class="col-sm-3" required>
-                    <input type="text" name="" required class="form-control" placeholder="เช่น ถ.ราชดำเนิน">
+                    <input type="text" name="" required class="form-control" placeholder="เช่น เพชรเกษม">
                 </div>
             </div>
 
@@ -176,7 +176,7 @@
                     <font color="#FF0000">*</font>
                 </div>
                 <div class="col-sm-3" required>
-                    <input type="text" name="" required class="form-control" placeholder="เช่น ต.ในเมือง">
+                    <input type="text" name="" required class="form-control" placeholder="เช่น ต.โคกกลอย">
                 </div>
             </div>
 
@@ -222,7 +222,7 @@
                     <font color="#FF0000">*</font>
                 </div>
                 <div class="col-sm-3" required>
-                    <input type="text" name="" required class="form-control" class="center" placeholder="18203">
+                    <input type="text" name="" required class="form-control" class="center" placeholder="18294">
                 </div>
             </div>
 
@@ -234,7 +234,7 @@
                     </b>
                 </div>
                 <div class="col-sm-3" required>
-                    <input type="text" name="" required class="form-control" class="center" placeholder="0256498731">
+                    <input type="text" name="" required class="form-control" class="center" placeholder="0201586312">
                 </div>
             </div>
 
@@ -247,7 +247,7 @@
                     <font color="#FF0000">*</font>
                 </div>
                 <div class="col-sm-3" required>
-                    <input type="text" name="" required class="form-control" class="center" placeholder="0623254987">
+                    <input type="text" name="" required class="form-control" class="center" placeholder="065-3821395">
                 </div>
             </div>
             <div>
@@ -257,8 +257,7 @@
                     สาขาที่สนใจ :
 
                 </div>
-                <div class="" required>
-                 
+                <div class="col-sm-2 control-label" required>
                         <label class="checkbox  ">
                             <input type="checkbox" id="itd" value=""> ITD (เทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล)</label><br />
                         <label class="checkbox">
@@ -281,7 +280,6 @@
                 </div>
             </div>
         </form>
-    </div>
 </body>
 
 </html>
